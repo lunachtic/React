@@ -1,12 +1,12 @@
-# 6. React Quiz App
+# 7. React Navbar
 
 ## Difficulty: Easy (3/10)
 
 ## Summary:
-You will build a simple React quiz app where users can click on option buttons to answer questions, next question rendered each time option is selected and at the end, the final score is displayed.
+You will create a fully responsive navbar on React using CSS grid and flexbox. Additionally, display breadcrumbs with the menu dropdown on mobile screen size.
 
 ## Topics covered:
-React Hooks, components, props, useState().
+CSS styling along with flex and grid. React basics like components, state, etc.
 
 # Getting Started with Create React App
 
