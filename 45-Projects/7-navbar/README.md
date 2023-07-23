@@ -1,4 +1,4 @@
-# 6. React Quiz App
+# 7. React Navbar
 
 ## Difficulty: Easy (3/10)
 
