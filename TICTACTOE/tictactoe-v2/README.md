@@ -1,6 +1,6 @@
 # React TICTACTOE V2
 
-This Project was make by reference de Tutorial of website: https://youtu.be/PVCrq8rBXE4
+This Project was make by reference de Tutorial of website: https://youtu.be/PVCrq8rBXE4, with some updates
 
 # Getting Started with Create React App
 
